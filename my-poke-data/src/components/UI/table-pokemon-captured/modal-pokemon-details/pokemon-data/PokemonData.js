@@ -29,5 +29,4 @@ const Pokemon = ({ data }) => {
         </Row>
     </Div>
 }
-
 export default Pokemon;
